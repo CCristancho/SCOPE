@@ -48,7 +48,6 @@ La cobertura mediática no solo refleja las actitudes públicas hacia la protest
 | [Daniel López Roche](https://www.ucm.es/transoc/lopez-roche-daniel) | Doctorando — Universidad Complutense de Madrid |
 | Carlos Villalobos | Doctorando — Universitat de Barcelona |
 | Martín Vergara | Doctorando — Universitat de Barcelona |
-| *Personal investigador de apoyo* | *contratación en curso* |
 
 ---
 
@@ -56,12 +55,17 @@ La cobertura mediática no solo refleja las actitudes públicas hacia la protest
 
 Selección de trabajos ya publicados por el equipo sobre cobertura mediática de la protesta y actitudes públicas hacia la protesta.
 
-- Anduiza, E., Cristancho, C., & Sabucedo, J. M. (2014). Mobilization through online social networks: the political protest of the indignados in Spain. *Information, Communication & Society*, 17(6), 750–764.
-- Cristancho, C., Anduiza, E., Congosto, M., & Majo-Vazquez, S. (2020). Contentious responses to the crises in Spain: emphasis frames and public support for protest on Twitter and the press. *International Journal of Communication*, 14.
+- Cristancho, C. (2026). Measuring the Protest Paradigm: LLM coding and machine learning approaches to Selection and Framing. *Forthcoming*.
+- Cristancho, C. (2026). A Large-Scale Comparative Perspective of Media Representations of Protest in 21st Century Latin America. *Forthcoming*.
 - Cristancho, C., & Wouters, R. (2022). Protesters at the news gates: An experimental study of journalists' news judgment of protest events. *Communications*, 47(2), 262–285.
 - Cristancho, C., Uba, K., & Zamponi, L. (2019). Discarding protests? Relating crisis experience to approval of protests among activists and bystanders. *Acta Politica*, 54(3), 430–457.
 - Gil-López, T. (2021). Mainstream protest reporting in the contemporary media environment: Exploring (in)stability and adherence to protest paradigm from 1998 to 2017. *Journalism & Mass Communication Quarterly*, 98(3), 692–724.
 - Gil-López, T., Ahmed, S., & Taylor, L. D. (2025). Testing the Attenuation of Protest Paradigm News Coverage Effects in the Presence of Prior Favorable Attitudes Toward a Cause. *International Journal of Public Opinion Research*, 37(1), edaf005.
+- Romanos, E., & Sádaba, I. (2022). The evolution of contention in Spain (2000-2017): An analysis of protest cycles. *Revista Española de Investigaciones Sociológicas*, 177, 89-110. 
+- Romanos, E., López-Roche, D. (2024a). “¿A quién van dirigidas las distintas formas de protesta? Un análisis de la evolución de los objetivos y repertorios de los movimientos sociales en la España del siglo XXI”, *Revista Española de Sociología*, 33(2), a223. 
+- Romanos, E., López-Roche, D. (2024b). Herramienta Integrada Digital de Extracción y Análisis de Información Social en Acontecimientos Históricos de Incertidumbre y Riesgo’ (HIDEAIS-AHIR). Entidad financiadora: Centro de Investigaciones Sociológicas, Ayudas a la Investigación. 
+- Romanos, E. (2020). “Social Movements”, en Diego Muro e Ignacio Lago (eds), *The Oxford Handbook of Spanish Politics*, Oxford: Oxford University Press.
+- Romanos, E., Dolenec, D., Sádaba Rodríguez, I., López-Roche, D., Balković, A., Širinić, D. y Kralj, K. (2025), DISDEM-ECOPOL Spain Protest Dataset, 2000-2020, Harvard Dataverse, V1. DOI: https://doi.org/10.7910/DVN/IK38SW.
 - Vlazakis, A. (2024). How Negative Media Framing of Anti-Status Quo Protests Acts as a Social Control Mechanism: A Socio-Psychological Perspective on Protest Paradigm Framework. *Protest*, 4(2), 207–230.
 - Vlazakis, A., & Baka, A. (2023). Uncovering Protest Paradigm Effect Processes: Representations and Perceptions of Media Protest Coverage Among Greek Youth. *International Journal of Communication*, 17, 20.
 - Wouters, R. (2015). Patterns in Advocacy Group Portrayal: Comparing Attributes of Protest and Non-Protest News Items Across Advocacy Groups. *Journalism & Mass Communication Quarterly*, 92(4), 898–914.
@@ -73,8 +77,8 @@ Selección de trabajos ya publicados por el equipo sobre cobertura mediática de
 
 ## Contacto
 
-Correo del proyecto: *[añadir email de contacto]*
-Redes sociales: *[X / Bluesky — próximamente]*
+*[camilo.cristancho@ub.edu]*
+*[X / Bluesky — próximamente]*
 Datos y materiales (en preparación): [CERCA / Dataverse](https://dataverse.csuc.cat) · Zenodo · OSF
 
 *Esta es la página de difusión inicial del proyecto. El contenido se actualizará conforme avance.*
