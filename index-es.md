@@ -1,5 +1,6 @@
 ---
-title: SCOPE
+layout: default
+title: SCOPE Español
 ---
 
 **[English »](index.md)**
